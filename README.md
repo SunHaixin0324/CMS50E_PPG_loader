@@ -6,7 +6,7 @@ Receive serial port data from Contec CMS50E in real time through HID interface, 
 
 Contec CMS50E oximeter
 
-<img src="https://github.com/SunHaixin0324/CMS50E_PPG_loader/blob/master/figures/oximeter.jpg" width="600" /> 
+<img src="https://github.com/SunHaixin0324/CMS50E_PPG_loader/blob/master/figures/oximeter.jpg" width="300" /> 
 
 ## Usage
 
@@ -16,7 +16,7 @@ Contec CMS50E oximeter
 
 3. Start the Smart Device Assistant software on your computer (It can usually be installed through the U disk included in the box of the oximeter or obtained by consulting customer service).
 
-   <img src="https://github.com/SunHaixin0324/CMS50E_PPG_loader/blob/master/figures/Smart%20Device%20Assistant.PNG" width="600" /> 
+   <img src="https://github.com/SunHaixin0324/CMS50E_PPG_loader/blob/master/figures/Smart%20Device%20Assistant.PNG" width="500" /> 
 
 4. Put your finger on the oximeter, turn it on, and plug it into the computer. Make sure it works well, that is, you can see the curve change on your computer software before moving on to the next step.
 
@@ -35,4 +35,4 @@ Contec CMS50E oximeter
 
 Waveform of collected PPG signal (first 10s)
 
-<img src="https://github.com/SunHaixin0324/CMS50E_PPG_loader/blob/master/figures/PPG%20waveform.PNG" width="600" /> 
+<img src="https://github.com/SunHaixin0324/CMS50E_PPG_loader/blob/master/figures/PPG%20waveform.PNG" width="800" /> 
